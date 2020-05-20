@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textView_prompt">"إختر حيوانا: "</string>
+    <string name="dog">كلب</string>
+    <string name="cat">قطة</string>
+    <string name="fish">سمكة</string>
+    <string name="horse">حصان</string>
+    <string name="toastMessage">كان إختيارك</string>
+</resources>
